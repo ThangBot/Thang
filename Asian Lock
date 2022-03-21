@@ -53,7 +53,7 @@ end)
     --
     if getgenv().valiansh == true then
                         game.StarterGui:SetCore("SendNotification", {
-                   Title = "Stars Lock",
+                   Title = "Asian Lock",
                    Text = "Already Loaded!",
                    Duration = 5
         
@@ -78,7 +78,7 @@ end)
         	end	
                if getgenv().NotifMode then
     			game.StarterGui:SetCore("SendNotification", {
-        Title = "Stars Lock";
+        Title = "Asin Lock";
         Text = "Target: "..tostring(Plr.Character.Humanoid.DisplayName);
     
     })
