@@ -78,7 +78,7 @@ end)
         	end	
                if getgenv().NotifMode then
     			game.StarterGui:SetCore("SendNotification", {
-        Title = "Asin Lock";
+        Title = "Asian Lock";
         Text = "Target: "..tostring(Plr.Character.Humanoid.DisplayName);
     
     })
